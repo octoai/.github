@@ -1,4 +1,6 @@
-## Wecome to Octo.ai
+## Wecome to Octoai
+
+DISCLAIMER: This project is not related to **https://octo.ai**. 
 
 <!--
 
